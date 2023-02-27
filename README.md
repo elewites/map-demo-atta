@@ -22,4 +22,4 @@ Create a new API key from the Google developer console making sure that Maps Jav
 
 ## Deployed version
 
-Alternatively, check out this [link-deployed-repo]() where I deployed the project using [netlify](https://www.netlify.com/) 
+Alternatively, check out this [link-deployed-repo](https://cosmic-gingersnap-461443.netlify.app/) where I deployed the project using [netlify](https://www.netlify.com/) 
