@@ -1,5 +1,5 @@
 import React from 'react';
-import './app.css';
+import './index.css';
 import MapComponent from './MapComponent';
 
 export default function App() {
